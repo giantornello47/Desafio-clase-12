@@ -1,0 +1,116 @@
+@media (max-width: 575.98px) {}
+*{
+    padding: 0px;   
+    margin: 0px;
+    font-family: 'Newsreader', serif;
+}
+
+
+
+.divNavbar{
+    display: flex;
+}
+
+li {
+    align-items: baseline;
+}
+
+
+
+.mainPage{
+    background-image: url(/imagenes/restaurado.jpg);
+    background-size:cover;
+    max-width:3000px;
+    min-width: none;
+    padding-bottom: 430px;
+    border-bottom: 3px solid black;
+
+}
+
+              
+                
+                .divTitulos{
+                    text-align: center;
+                    font-family: 'Newsreader', serif;
+                    font-weight: bolder;
+                    grid-area: "divTitulos";
+                    
+                    
+                }
+
+                
+                .divImageninicio {
+                    display: block;
+                    margin: auto 30%;
+                    position: absolute;                                                                           
+                }
+
+ .seccionSobremi{
+     background-image: url(/imagenes/HELECHOS222.jpg);
+     background-size: cover;
+     border-top: 3px solid black;
+     display: flex;
+    flex-flow: "wrap";
+ }              
+                
+                .divImagensobremi {
+                    margin: 70px 70px;
+                    position: relative;
+                }
+
+                .divTitulossobremi{
+                    position: absolute;
+                    background-color: brown;
+                    width: 300px;
+                    height: 100px;
+                    margin-left: 590px;
+                    margin-top: 110px;
+                    font-weight: bolder;
+                    color: black;
+                    text-decoration: double black 1px underline;
+                    
+                    
+                }
+
+                .divTextosobremi{
+                    position: absolute;
+                    background-color: blueviolet;
+                    height: 200px;
+                    width: 300px;
+                    margin-left: 590px;
+                    margin-top: 270px;
+                    color: black;
+                    font-weight: bold;
+                }
+
+                .divRedes{                   
+                   background-color: coral;
+                   position: absolute;
+                   margin-top: 245px;
+                   margin-left: 1100px;
+                   align-items: baseline;
+                   
+                   
+                }
+                
+                .redes{
+                    padding-left: 5px;
+                    display: inline-block;
+                    font-weight: bolder;
+                    color: black;
+                    font-size: medium;
+                    
+                }
+
+#seccionPortfolio{
+    background-image: url(/imagenes/HOJASSSSS.jpg);
+    background-size: cover;
+    
+}
+                .divCarrousell{
+                    margin: auto;
+                    align-items: center;
+                }
+
+
+            

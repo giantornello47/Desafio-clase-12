@@ -1,0 +1,64 @@
+/*Estilos de css*/
+//Este comentario queda solo en sass// 
+
+
+
+/*Bloques*/
+.PadreNav{
+}
+.PadrePrincipal{
+}
+.PadreSeccion2{
+}
+.PadreFooter{
+}
+
+/*Elementos*/
+.PadreNav__Hijonav{
+}
+
+.PadrePrincipal__divTitulos{
+}
+.PadrePrincipal__divImageninicio{
+}
+
+.PadreSeccion2__divImagensobremi{
+}
+.PadreSeccion2__divTitulossobremi{
+}
+.PadreSeccion2__divTextosobremi{
+}
+.PadreSeccion2__divRedes{
+}
+
+.PadreFooter__hijoNavFooter{
+}
+
+/*Modificador*/
+.PadreNav__Hijonav--modificadorNav{
+}
+
+.PadrePrincipal__divTitulos--modificadorTitulos{
+}
+
+.PadreSeccion2__divTextosobremi--modificadorTextossobremi{
+}
+
+.PadreFooter__hijoNavFooter--modificadorNavfooter{
+}
+
+.Navcontactos{
+    background-color: black;
+}
+
+.seccionContacto{
+   height:120px;
+}
+
+.divFormulario{
+    width: auto;
+   
+}
+ .BotonEnviar{
+     margin-top: 5px;
+ }
